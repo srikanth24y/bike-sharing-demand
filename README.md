@@ -16,10 +16,10 @@ The company wants to know:
 It is required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
 
 ## Conclusions
-- Top 3 features which influence the bike bookings are
-	Temperature (temp)
-	Weather (Weathersit = light rain or snow)
-	Year
+- Top 3 features which influence the bike bookings are<br/>
+	1) Temperature (temp)<br/>
+	2) Weather (Weathersit = light rain or snow)<br/>
+	3) Year
 - A unit increase in temperature, increases the bike bookings by 0.5155 units
 - A unit increase in weathersit (Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds) decreases the bookings by 0.2863 units
 - A unit increase in year, increases the bike bookings by 0.2348 units
